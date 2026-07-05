@@ -13,7 +13,8 @@
 | 💼 **LinkedIn** | [chandimak](https://www.linkedin.com/in/chandimak/) |
 | 📢 **GenAI Wellington** | [genAIWellington](https://luma.com/genAIWellington) - Come and join! |
 | 🌱 **AI for Good NZ** | [aiforgood.org.nz](https://www.aiforgood.org.nz) |
-| 🏃 **Run Wellington** | [runwellington.com](https://www.runwellington.com) |
+| 🏃 **Run Wellington** | [runwellington.com](https://run.runwellington.com) |
+| 🏃 **Coaching Articles** | [Endurance in Practice](https://runwellington.substack.com) |
 
 
 ---
